@@ -13,7 +13,7 @@ VGT is a two-stream multi-modal Vision Grid Transformer for document layout anal
 
 ## Install requirements
 * [PyTorch](http://pytorch.org/) version >= 1.8.0
-* Python version >= 3.6
+* Python version >= 3.8
 
 ```bash
 pip install -r requirements.txt
